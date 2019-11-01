@@ -1,4 +1,4 @@
-import JSResource from './JSResource';
+import JSResource from './utils/JSResource';
 import { preloadQuery } from 'react-relay/hooks';
 import RelayEnvironment from './RelayEnvironment';
 
